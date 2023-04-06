@@ -7,7 +7,7 @@ author: |
     |
     | «День науки», Южный федеральный университет
     |
-    | презентация доступна по ссылке: tinyurl.com/2o2aha9q
+    | презентация доступна по ссылке: tinyurl.com/25toys5m
 date: "06 апреля 2023"
 output: 
   beamer_presentation:
